@@ -1,4 +1,4 @@
-# COVID-19-Analysis-and-CaseStudy
+# COVID-19 Analysis and CaseStudy
  Figure 1: Trends of Daily & Total cases in India
 ![alt text](https://github.com/ravivarmathotakura/COVID-19-Analysis-and-CaseStudy/blob/master/images/Fig-1%20Trend%20of%20Daily%20COVID-19%20Cases%20in%20India.png?raw=true)
 ![alt text](https://github.com/ravivarmathotakura/COVID-19-Analysis-and-CaseStudy/blob/master/images/Fig-1%20Trend%20of%20Total%20COVID-19%20Cases%20in%20India.png?raw=true)
