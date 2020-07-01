@@ -1,4 +1,17 @@
 # COVID-19 Analysis, Modeling and Forecasting the Epidemic
 ![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/COIVD-19%20World%20Cases.png?raw=true)
 ![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/COIVD-19%20Cases%20in%20Different%20Countries.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/World%20Daily%20Increases%20in%20Confirmed%20Cases.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/World%20Daily%20Increases%20in%20Confirmed%20Recoveries.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/World%20Daily%20Increases%20in%20Confirmed%20Deaths.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Covid-19%20Active%20Cases%20Over%20Time.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Covid-19%20Cases%20Over%20Time.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Covid-19%20Recoveries%20Over%20Time.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Covid-19%20Deaths%20Over%20Time.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Mortality%20Rate%20of%20Covid-19%20Over%20Time.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20Covid-19%20Cases.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20Covid-19%20Deaths%20vs%20Recovery.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Coronavirus%20Cases.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Coronavirus%20Deaths.png?raw=true)
+![alt text](https://github.com/ravivarmathotakura/COVID-19_Analysis_and_CaseStudy/blob/master/images/Num%20of%20Coronavirus%20Recoveries.png?raw=true)
 
